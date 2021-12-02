@@ -1,2 +1,2 @@
 # aidedu
-Create great relationship between MENFP, students and school
+Create link between MENFP, students and school
